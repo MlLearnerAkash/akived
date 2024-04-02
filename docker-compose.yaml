@@ -19,7 +19,7 @@ services:
       start_period: 30s
     volumes:
       - devika-backend-dbstore:/home/nonroot/devika/db
-      - /DATA/Downloads/devikaprojects:/home/nonroot/devika/projects
+      - /DATA/Downloads/devikaprojects:/home/nonroot/devika/data/projects
     networks:
       - devika-subnetwork
 
