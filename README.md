@@ -2,7 +2,7 @@
   <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
 </p>
 
-<h1 align="center">🚀 Devika Love llama - Agentic AI Engineer 👩‍💻</h1>
+<h1 align="center">🚀 Devika Love Ollama - Agentic AI Engineer 👩‍💻</h1>
 
 ![image](https://github.com/hqnicolas/devika/assets/41456803/d71fecf2-35d2-49c4-8733-6a956895f180)
 ![devika screenshot](.assets/devika-screenshot.png) 
