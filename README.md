@@ -8,10 +8,23 @@
 
 # Make Sure that your Ollama server have this Models:
 
+
 - openchat:7b-v3.5-1210-q5_K_M (4.8GB)
 - mistral-openorca:7b-q5_K_M (4.8GB)
 - qwen:14b-chat-v1.5-q4_K_M (8.6GB)
 
+- install Docker
+```
+wget https://raw.githubusercontent.com/hqnicolas/bmaltaisKohya_ssROCm/main/docker.sh
+sudo chmod 777 docker.sh
+sudo ./docker.sh
+```
+- install Docker Compose
+```
+sudo apt-get update
+sudo apt-get install docker-compose-plugin -y
+sudo apt-get install docker-compose -y
+```
 Clone this REPO to `/DATA/Downloads/`
 ```
 cd /
