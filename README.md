@@ -1,10 +1,8 @@
-<p align="center">
-  <img src=".assets/devika-avatar.png" alt="Devika Logo" width="250">
-</p>
-
 <h1 align="center">🚀 Devika Love Ollama - Agentic AI Engineer 👩‍💻</h1>
 
-![image](https://github.com/hqnicolas/devika/assets/41456803/d71fecf2-35d2-49c4-8733-6a956895f180)
+<p align="center">
+  <img src=".assets/Devika-llama.png" alt="Devika Logo" width="700">
+</p>
 
 <h1 align="center">🦙 Ollama Ready Docker Compose Version 🐋</h1>
 
