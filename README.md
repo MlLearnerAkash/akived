@@ -7,6 +7,27 @@
 ![image](https://github.com/hqnicolas/devika/assets/41456803/d71fecf2-35d2-49c4-8733-6a956895f180)
 ![devika screenshot](.assets/devika-screenshot.png) 
 
+Clone this REPO to `/DATA/Downloads/`
+```
+cd /
+sudo mkdir -p /DATA/Downloads/ 
+git clone https://github.com/hqnicolas/devika /DATA/Downloads/
+cd devika
+chmod 775 -R /DATA/
+``` 
+- Create config file `Based on config.toml `
+``` 
+cp sample.config.toml config.toml
+``` 
+[edit the docker compose](https://github.com/hqnicolas/devika/blob/a103ca53fc07717db0dfb6a6ebcd513bc6aadac0/docker-compose.yaml#L11) to point to your ollama server url
+``` 
+sudo docker compose build
+sudo docker compose up
+``` 
+- All Yor Resulting Projects Will be Released on this folder:
+```
+/DATA/Downloads/devikaprojects/
+```
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
