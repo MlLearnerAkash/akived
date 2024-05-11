@@ -5,7 +5,12 @@
 <h1 align="center">🚀 Devika Love Ollama - Agentic AI Engineer 👩‍💻</h1>
 
 ![image](https://github.com/hqnicolas/devika/assets/41456803/d71fecf2-35d2-49c4-8733-6a956895f180)
-![devika screenshot](.assets/devika-screenshot.png) 
+
+Make Sure that your Ollama server have this Models:
+
+- openchat:7b-v3.5-1210-q5_K_M (4.8GB)
+- mistral-openorca:7b-q5_K_M (4.8GB)
+- qwen:14b-chat-v1.5-q4_K_M (8.6GB)
 
 Clone this REPO to `/DATA/Downloads/`
 ```
@@ -23,11 +28,16 @@ cp sample.config.toml config.toml
 ``` 
 sudo docker compose build
 sudo docker compose up
+```
+- Use DuckDuckGo Search
+
+``` 
 ``` 
 - All Yor Resulting Projects Will be Released on this folder:
 ```
 /DATA/Downloads/devikaprojects/
 ```
+![devika screenshot](.assets/devika-screenshot.png) 
 
 > [!IMPORTANT]  
 > This project is currently in a very early development/experimental stage. There are a lot of unimplemented/broken features at the moment. Contributions are welcome to help out with the progress!
