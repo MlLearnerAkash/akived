@@ -15,7 +15,7 @@
 
 - install Docker
 ```
-wget https://raw.githubusercontent.com/hqnicolas/bmaltaisKohya_ssROCm/main/docker.sh
+wget https://raw.githubusercontent.com/hqnicolas/devika/main/docker.sh
 sudo chmod 777 docker.sh
 sudo ./docker.sh
 ```
