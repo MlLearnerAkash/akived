@@ -6,7 +6,7 @@
 
 ![image](https://github.com/hqnicolas/devika/assets/41456803/d71fecf2-35d2-49c4-8733-6a956895f180)
 
-<h1 align="center"># 🦙 Ollama Ready Docker Compose Version 🐋</h1>
+#<h1 align="center">🦙 Ollama Ready Docker Compose Version 🐋</h1>
 
 - Make Sure that your Ollama server have this Models:
 
