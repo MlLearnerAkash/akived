@@ -15,10 +15,11 @@ Make Sure that your Ollama server have this Models:
 Clone this REPO to `/DATA/Downloads/`
 ```
 cd /
-sudo mkdir -p /DATA/Downloads/ 
+sudo mkdir -p /DATA/Downloads/
+chmod 775 -R /DATA/
 git clone https://github.com/hqnicolas/devika /DATA/Downloads/
 cd /DATA/Downloads/devika/
-chmod 775 -R /DATA/
+
 ``` 
 - Create config file `Based on config.toml `
 ``` 
