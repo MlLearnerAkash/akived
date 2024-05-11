@@ -17,7 +17,7 @@ Clone this REPO to `/DATA/Downloads/`
 cd /
 sudo mkdir -p /DATA/Downloads/ 
 git clone https://github.com/hqnicolas/devika /DATA/Downloads/
-cd devika
+cd /DATA/Downloads/devika/
 chmod 775 -R /DATA/
 ``` 
 - Create config file `Based on config.toml `
