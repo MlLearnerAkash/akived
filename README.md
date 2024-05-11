@@ -16,8 +16,8 @@ Clone this REPO to `/DATA/Downloads/`
 ```
 cd /
 sudo mkdir -p /DATA/Downloads/
-chmod 775 -R /DATA/
-git clone https://github.com/hqnicolas/devika /DATA/Downloads/
+sudo chmod 777 -R /DATA/
+git clone https://github.com/hqnicolas/devika /DATA/Downloads/devika/
 cd /DATA/Downloads/devika/
 
 ``` 
