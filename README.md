@@ -32,7 +32,9 @@ sudo docker compose up
 ```
 - Use DuckDuckGo Search
 
-``` 
+```
+# to the azure gui's:
+BING = "https://api.bing.microsoft.com/v7.0/search"
 ``` 
 - All Yor Resulting Projects Will be Released on this folder:
 ```
