@@ -1,6 +1,7 @@
 <h1 align="center">🚀 Devika Love Ollama - Agentic AI Engineer 👩‍💻</h1>
 <p align="center">
   <img src=".assets/Devika-llama.png" alt="Devika Logo" width="700">
+  
   <a href="https://github.com/stitionai">stitionai</a>/
   <a href="https://github.com/stitionai/devika">devika</a>
   <br><br>
