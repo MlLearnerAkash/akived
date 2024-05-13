@@ -2,7 +2,9 @@
 
 <p align="center">
   <img src=".assets/Devika-llama.png" alt="Devika Logo" width="700">
+[stitionai/Devika](https://github.com/stitionai/devika)
 </p>
+
 
 <h1 align="center">🦙 Ollama Ready Docker Compose Version 🐋</h1>
 
