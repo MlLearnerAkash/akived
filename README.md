@@ -1,10 +1,11 @@
+[stitionai/](https://github.com/stitionai)[devika](https://github.com/stitionai/devika)
+
 <h1 align="center">🚀 Devika Love Ollama - Agentic AI Engineer 👩‍💻</h1>
 
 <p align="center">
   <img src=".assets/Devika-llama.png" alt="Devika Logo" width="700">
-[stitionai/Devika](https://github.com/stitionai/devika)
 </p>
-
+devika
 
 <h1 align="center">🦙 Ollama Ready Docker Compose Version 🐋</h1>
 
